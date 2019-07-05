@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+}
+
+
+.name {
+	color: blue;
+}
+
+.uppercase{
+	text-transform: uppercase;
+	text-orientation: mixed;
+}
+
+#Name{
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+h1 {
+	text-align: center;
+	width: 100%;
+	font-size: 2em
+}
+
+h2 {
+
+	color:blue;
+	fornt-style:italic;
+}
+
+ul {
+	font-family: Arial;
+}
+
